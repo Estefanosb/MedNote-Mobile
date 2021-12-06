@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/20191tiimi0186/AndroidStudioProjects/MedNote/app/src/main/res/layout/activity_consultas.xml" value="0.196875" />
-        <entry key="..\:/Users/20191tiimi0186/AndroidStudioProjects/MedNote/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/20191tiimi0186/AndroidStudioProjects/MedNote/app/src/main/res/layout/activity_consultas.xml" value="0.25" />
+        <entry key="..\:/Users/20191tiimi0186/AndroidStudioProjects/MedNote/app/src/main/res/layout/activity_login.xml" value="0.2153846153846154" />
+        <entry key="..\:/Users/20191tiimi0186/AndroidStudioProjects/MedNote/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/20191tiimi0186/AndroidStudioProjects/MedNote/app/src/main/res/layout/activity_relatorio.xml" value="0.196875" />
         <entry key="..\:/Users/20191tiimi0186/AndroidStudioProjects/MedNote/app/src/main/res/layout/activity_sintoma.xml" value="0.1828125" />
         <entry key="..\:/Users/20191tiimi0186/AndroidStudioProjects/MedNote/app/src/main/res/layout/activity_sintomas.xml" value="0.196875" />

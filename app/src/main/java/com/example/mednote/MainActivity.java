@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
     private Button SintomasBtn;
     private Button RelatorioBtn;
     private Button ConsultaBtn;
+    boolean l;
 
     @Override
 
@@ -20,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         SintomasBtn = findViewById(R.id.SintomasBtn);
         RelatorioBtn = findViewById(R.id.RelatorioBtn);
         ConsultaBtn = findViewById(R.id.ConsultaBtn);
+
 
         SintomasBtn.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -49,7 +51,8 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
     public void openConsultaBtn(){
-        Intent intent = new Intent(this, ConsultaActivity.class);
+        Intent intent = new Intent(this, LoginActivity.class);
         startActivity(intent);
     }
+
 }
